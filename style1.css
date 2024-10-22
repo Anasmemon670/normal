@@ -1,0 +1,31 @@
+.para{
+    text-align: center;
+    border-width: 1px;
+    border-style: solid;
+    word-spacing: 10px;
+    margin-top: 200px;
+    margin-right: 500px;
+    margin-left: 500px;
+    margin-bottom: 200px;
+    padding-top: 150px;
+    padding-bottom: 50px;
+}
+.box {
+    font-size: 22px;
+    text-shadow: 5px 10px 10px;
+    font-style: italic; 
+}
+a{
+    font-size: 18px;
+    text-decoration: none;
+    text-shadow: 5px 10px 10px;
+    font-style: italic; 
+}
+p{
+    background-color: green;
+    color: white;
+    font-size: 20px;
+}
+.box1{
+    text-size-adjust: 4px;
+}

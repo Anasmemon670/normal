@@ -1,0 +1,28 @@
+body{
+    background-color: whitesmoke;
+    color: black;
+    font-style: italic;
+}
+.para {
+    font-size: 22px;
+    text-shadow: 5px 10px 10px;
+    color: black;
+}
+.box{
+    text-shadow: 5px 10px 10px;
+    font-size: 40px;
+}
+a{
+    text-decoration: none;
+    color: rgb(111, 0, 255);
+    font-size: 18px;
+    text-shadow: 5px 10px 10px;
+}
+h1{
+    text-shadow: 5px 10px 10px;
+    font-size: 30px;
+}
+h3{
+    text-shadow: 5px 10px 10px;
+    font-size: 20px;
+}
